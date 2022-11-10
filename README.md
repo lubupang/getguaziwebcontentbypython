@@ -5,6 +5,6 @@
 ## 本人分享只处于学习目的,任何人如果使用此东西违法相关法律和本人无关
 
 ## 使用步骤
-1.cmd to thisfile
-2.pip install -r req.txt -i https://pypi.doubanio.com/simple
-3.python run.py
+1. cmd to thisfile
+2. pip install -r req.txt -i https://pypi.doubanio.com/simple
+3. python run.py
