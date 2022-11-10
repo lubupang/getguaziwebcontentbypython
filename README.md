@@ -9,3 +9,4 @@
 2. pip install -r req.txt -i https://pypi.doubanio.com/simple
 3. python run.py
 4. 结果在 xxxxx.json
+5. 核心获取置换字典代码及逻辑  https://zhuanlan.zhihu.com/p/582157424
