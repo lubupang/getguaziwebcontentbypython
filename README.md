@@ -8,3 +8,4 @@
 1. cmd to thisfile
 2. pip install -r req.txt -i https://pypi.doubanio.com/simple
 3. python run.py
+4. 结果在 xxxxx.json
